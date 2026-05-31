@@ -85,31 +85,6 @@ Specialized in transforming chaotic operational environments into scalable, AI-d
 
 ---
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/PdrPaez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PdrPaez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrPaez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PdrPaez&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PdrPaez&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PdrPaez&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Leadership highlights
 
 - 🏗️ Architected production-grade AI-powered SaaS platforms from concept to launch
