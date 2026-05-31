@@ -117,10 +117,12 @@ next:
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> Snake eating my contributions
 
 <div align="center">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/PdrPaez/PdrPaez/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PdrPaez/PdrPaez/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PdrPaez/PdrPaez/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/PdrPaez/PdrPaez/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-> _To enable the snake animation, add a GitHub Action workflow at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk)._
 
 ---
 
