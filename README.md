@@ -11,10 +11,10 @@
 <a href="https://linkedin.com/in/pedrohenriquepaes">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:pdrpaes1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/PdrPaez">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Valencia,%20Spain-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Spain-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=PdrPaez&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
@@ -25,11 +25,11 @@
 
 ```ts
 const pedro = {
-  role:       "Head of Development @ Myth.dev",
-  base:       "Valencia, Spain",
+  role:       "Head of Development",
+  base:       "Spain",
   experience: "10+ years",
   focus:      ["Solutions Architecture", "AI Systems", "Engineering Leadership"],
-  building:   ["Myth Kraken — AI content platform", "Myth Kernel — workflow automation"],
+  building:   ["AI content platforms", "Workflow automation systems"],
   obsessed:   "transforming chaotic operations into scalable, AI-driven ecosystems",
   languages:  ["Portuguese (native)", "English (C1)", "Spanish (conversational)"],
 };
@@ -37,17 +37,17 @@ const pedro = {
 
 Engineering leader and Solutions Architect with 10+ years designing scalable software ecosystems, modernizing legacy platforms, and leading engineering transformation initiatives across SaaS, AI, education, healthcare, and enterprise environments.
 
-**Promoted twice within the first year at Myth.dev** — from Senior Software Engineer to Head of Development — based on technical leadership, architectural ownership, and organizational impact.
+Specialized in transforming chaotic operational environments into scalable, AI-driven ecosystems through architecture, automation, and engineering leadership.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I'm building
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I work on
 
-| Project | What it is | Scale |
-|---|---|---|
-| **Myth Kraken** | AI-powered content generation platform with multi-agent orchestration | ~400 req/sec · 26+ AI agents |
-| **Myth Kernel** | Workflow automation platform — backend orchestration & process pipelines | Thousands of ops/day |
-| **AI ecosystem** | Multi-agent environments across content, validation, and operational domains | ~$750K annual SaaS scale |
+- **AI-powered content generation platforms** leveraging multi-agent orchestration.
+- **Workflow automation systems** — backend orchestration, integrations, and operational pipelines.
+- **Multi-agent AI environments** spanning content, validation, and operational domains.
+- **Engineering governance**, hiring frameworks, and delivery standards for scaling teams.
+- **Legacy modernization** into distributed, real-time, scalable architectures.
 
 ---
 
@@ -112,13 +112,14 @@ Engineering leader and Solutions Architect with 10+ years designing scalable sof
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Leadership highlights
 
-- 🏗️ **Architected AI-powered SaaS platforms** operating at ~$750K annual revenue
-- 🤖 **26+ specialized AI agents** orchestrated in production
-- ⚡ **~400 req/sec throughput** across content & automation platforms
-- 💰 **~R$2.5M in recurring semester savings** via large-scale automation
-- 📉 **>95% reduction** in manual intervention on high-volume validation workflows
-- 👥 Led engineering teams **up to 14 developers** and specialists
-- 🚀 Engineering frameworks **adopted across multiple business departments**
+- 🏗️ Architected production-grade AI-powered SaaS platforms from concept to launch
+- 🤖 Designed multi-agent AI environments orchestrating specialized agents in production
+- ⚡ Built high-throughput real-time systems with distributed workers and observability
+- 💰 Delivered large-scale automation generating multimillion operational savings
+- 📉 Drove drastic reductions in manual effort across high-volume validation workflows
+- 👥 Led engineering teams, hiring frameworks, and developer progression models
+- 🚀 Engineering governance and standards adopted across multiple business departments
+- 🧠 Built AI-assisted engineering workflows to accelerate software delivery
 
 ---
 
@@ -126,14 +127,14 @@ Engineering leader and Solutions Architect with 10+ years designing scalable sof
 
 ```yaml
 now:
-  - Scaling Myth Kraken's multi-agent ecosystem
-  - Building engineering governance for sustained growth
+  - Scaling multi-agent AI ecosystems in production
+  - Building engineering governance for sustained organizational growth
   - Exploring frontier LLM orchestration patterns
-  - Mentoring senior engineers transitioning into architecture
+  - Mentoring engineers transitioning into architecture and leadership
 
 next:
   - Open-sourcing reusable agent orchestration primitives
-  - Speaking & writing about AI-assisted engineering at scale
+  - Writing about AI-assisted engineering at scale
 ```
 
 ---
@@ -154,9 +155,6 @@ next:
 
 <a href="https://linkedin.com/in/pedrohenriquepaes">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:pdrpaes1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/PdrPaez">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
