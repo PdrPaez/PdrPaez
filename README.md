@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Spain-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=PdrPaez&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=PdrPaez&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&base=7841" />
 
 </div>
 
