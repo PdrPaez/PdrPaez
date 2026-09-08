@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Pedro%20Paes&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Solutions%20Architect%20%E2%80%A2%20Head%20of%20Development%20%E2%80%A2%20AI%20Systems%20Architect&descSize=18&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Pedro%20Paes&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Solutions%20Architect%20%E2%80%A2%20Hands-on%20Engineering%20Leader%20%E2%80%A2%20Distributed%20Systems&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <a href="https://github.com/PdrPaez">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=820&lines=Designing+scalable+software+ecosystems.;Architecting+AI-powered+platforms+at+production+scale.;Leading+engineering+transformation+initiatives.;Turning+chaotic+operations+into+scalable+systems." alt="Typing animation" />
@@ -25,12 +25,12 @@
 
 ```ts
 const pedro = {
-  role:       "Head of Development",
-  base:       "Spain",
+  role:       "AI Solutions Architect",
+  base:       "Valencia, Spain",
   experience: "10+ years",
-  focus:      ["Solutions Architecture", "AI Systems", "Engineering Leadership"],
-  building:   ["AI content platforms", "Workflow automation systems"],
-  obsessed:   "transforming chaotic operations into scalable, AI-driven ecosystems",
+  focus:      ["AI Architecture", "Distributed Systems", "Engineering Leadership"],
+  building:   ["AI systems", "Agentic workflows", "Production platforms"],
+  obsessed:   "turning complex problems into systems that actually survive production",
   languages:  ["Portuguese (native)", "English (C1)", "Spanish (conversational)"],
 };
 ```
