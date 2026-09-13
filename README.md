@@ -41,6 +41,21 @@ Specialized in transforming chaotic operational environments into scalable, AI-d
 
 ---
 
+## Featured Architecture Projects
+
+Six executable reference systems showing production-minded architecture across AI, distributed systems, SaaS security, messaging, and monetization:
+
+| Project | Architecture capability |
+| --- | --- |
+| [agentic-rag-platform](https://github.com/PdrPaez/agentic-rag-platform) | Agentic AI, hybrid retrieval, reranking, grounded generation, evaluation, and observability. |
+| [multi-tenant-saas-platform](https://github.com/PdrPaez/multi-tenant-saas-platform) | SaaS isolation with PostgreSQL RLS, RBAC, security boundaries, and auditability. |
+| [distributed-job-orchestrator](https://github.com/PdrPaez/distributed-job-orchestrator) | Distributed processing with workers, queues, retries, idempotency, dead letters, and real-time operations. |
+| [event-driven-integration-platform](https://github.com/PdrPaez/event-driven-integration-platform) | Event-driven delivery with transactional outbox, RabbitMQ, inbox deduplication, retries, DLQ, replay, and schema evolution. |
+| [llm-production-patterns](https://github.com/PdrPaez/llm-production-patterns) | Reliable LLM execution with routing, fallback, structured output, token budgets, caching, rate limiting, prompt security, tracing, and evaluation. |
+| [paywall-decision-engine](https://github.com/PdrPaez/paywall-decision-engine) | Monetization architecture with entitlements, metering, billing projection, idempotency, decision policies, and auditability. |
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I work on
 
 - **AI-powered content generation platforms** leveraging multi-agent orchestration.
